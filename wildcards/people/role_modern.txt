@@ -1,0 +1,14 @@
+student
+teacher
+scientist
+detective
+police officer
+soldier
+spy
+mentor
+leader
+follower
+explorer
+survivor
+guardian
+protector

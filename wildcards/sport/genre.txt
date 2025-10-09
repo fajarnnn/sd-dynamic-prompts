@@ -1,0 +1,24 @@
+football
+basketball
+tennis
+badminton
+boxing
+martial arts
+swimming
+surfing
+cycling
+golf
+baseball
+volleyball
+table tennis
+gym workout
+skateboarding
+skiing
+snowboarding
+running
+parkour
+archery
+fencing
+karate
+taekwondo
+rugby

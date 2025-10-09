@@ -1,0 +1,10 @@
+drama
+romance
+legal
+political
+school life
+college life
+medical
+family
+survival
+friendship

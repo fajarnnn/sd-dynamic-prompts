@@ -1,0 +1,7 @@
+(genre/__fantasy_safe__/genre__),
+at (genre/__fantasy_safe__/place__),
+(genre/__fantasy_safe__/pose__),
+wearing (genre/__fantasy_safe__/outfit__),
+with (genre/__fantasy_safe__/mood__),
+including (genre/__fantasy_safe__/object__),
+(detail: genre/__fantasy_safe__/detail__).

@@ -1,0 +1,14 @@
+dynamic action pose
+battle ready stance
+combat pose
+sword fighting stance
+dual wield attack pose
+archery aiming pose
+shield blocking stance
+martial arts fighting stance
+flying kick pose
+spinning kick pose
+magic casting pose
+charging attack pose
+jump attack pose
+mid-air battle pose

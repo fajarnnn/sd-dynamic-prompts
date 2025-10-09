@@ -1,0 +1,15 @@
+ball
+racket
+boxing gloves
+helmet
+dumbbell
+barbell
+goalpost
+whistle
+skateboard
+surfboard
+bicycle
+archery bow
+golf club
+stopwatch
+towel and water bottle

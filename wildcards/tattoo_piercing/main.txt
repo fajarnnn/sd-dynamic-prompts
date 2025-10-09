@@ -1,0 +1,7 @@
+(genre/__tattoo_piercing__/genre__),
+at (genre/__tattoo_piercing__/place__),
+(genre/__tattoo_piercing__/pose__),
+wearing (genre/__tattoo_piercing__/outfit__),
+with (genre/__tattoo_piercing__/mood__),
+including (genre/__tattoo_piercing__/object__),
+(detail: genre/__tattoo_piercing__/detail__).

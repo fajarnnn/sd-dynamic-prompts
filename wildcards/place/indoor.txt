@@ -1,0 +1,27 @@
+bedroom
+living room
+bathroom
+kitchen
+office
+library
+classroom
+laboratory
+hospital room
+hotel room
+studio apartment
+cafe
+restaurant
+bar
+nightclub
+concert stage
+theatre stage
+museum
+art gallery
+gym
+dojo
+temple
+church
+mosque
+castle interior
+palace hall
+dungeon

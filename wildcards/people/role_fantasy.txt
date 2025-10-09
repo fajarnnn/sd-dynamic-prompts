@@ -1,0 +1,17 @@
+hero
+villain
+anti-hero
+warrior
+healer
+mage
+thief
+assassin
+princess
+prince
+king
+queen
+god
+goddess
+demon
+angel
+monster

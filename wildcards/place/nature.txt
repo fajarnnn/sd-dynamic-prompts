@@ -1,0 +1,34 @@
+forest
+jungle
+desert
+oasis
+savannah
+mountain
+cliffside
+canyon
+volcano
+waterfall
+riverbank
+lake shore
+beach
+tropical island
+ice cave
+snowy mountain
+arctic tundra
+glacier
+ocean floor
+coral reef
+sky
+clouds
+stormy sky
+sunset horizon
+sunrise horizon
+rainy street
+snowy street
+windy field
+flower field
+garden
+park
+playground
+farm
+barn

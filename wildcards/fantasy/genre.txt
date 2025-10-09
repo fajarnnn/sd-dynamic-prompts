@@ -1,0 +1,20 @@
+knight
+mage
+archer
+assassin
+paladin
+sorcerer
+elf warrior
+dwarf blacksmith
+dragon
+fairy
+goblin
+orc
+ranger
+holy guardian
+beast tamer
+royal princess
+ancient spirit
+battle hero
+mythical creature
+forest druid

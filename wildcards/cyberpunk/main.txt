@@ -1,0 +1,7 @@
+(genre/__cyberpunk__/genre__),
+at (genre/__cyberpunk__/place__),
+(genre/__cyberpunk__/pose__),
+wearing (genre/__cyberpunk__/outfit__),
+with (genre/__cyberpunk__/mood__),
+including (genre/__cyberpunk__/object__),
+(detail: genre/__cyberpunk__/detail__).

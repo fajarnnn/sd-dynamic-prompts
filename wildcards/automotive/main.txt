@@ -1,0 +1,7 @@
+(genre/__automotive__/genre__),
+at (genre/__automotive__/place__),
+(genre/__automotive__/pose__),
+wearing (genre/__automotive__/outfit__),
+with (genre/__automotive__/mood__),
+including (genre/__automotive__/object__),
+(detail: genre/__automotive__/detail__).

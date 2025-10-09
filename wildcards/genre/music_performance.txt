@@ -1,0 +1,10 @@
+musical
+opera
+dance
+theatre
+concert
+performance
+avant-garde
+arthouse
+experimental
+indie

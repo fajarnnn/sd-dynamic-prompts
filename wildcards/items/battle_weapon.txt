@@ -1,0 +1,24 @@
+sword
+greatsword
+katana
+dual blades
+daggers
+spear
+battle axe
+war hammer
+shield and sword
+longbow
+crossbow
+staff
+magic staff
+scythe
+mace
+trident
+gunblade
+dual pistols
+rifle
+shotgun
+sniper rifle
+machine gun
+bazooka
+plasma gun

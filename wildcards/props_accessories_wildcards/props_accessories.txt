@@ -1,0 +1,90 @@
+sword
+katana
+dagger
+bow and arrows
+crossbow
+shield
+revolver
+pistol
+assault rifle
+sniper rifle
+shotgun
+grenade
+knife
+throwing stars
+bo staff
+magic wand
+staff
+spear
+energy sword
+flamethrower
+spellbook
+rune stone
+magic orb
+crystal ball
+scroll with runes
+enchanted amulet
+potion bottle
+ancient relic
+talisman
+grimoire
+dark tome
+holy cross
+glowing rune sigil
+sacred chalice
+necklace
+choker
+bracelet
+earrings
+dangling earrings
+pearl necklace
+gold chain
+silver ring
+gemstone ring
+anklet
+nose ring
+belly piercing
+crystal pendant
+sunglasses
+aviator sunglasses
+round glasses
+square glasses
+nerd glasses
+transparent glasses
+half-rim glasses
+retro glasses
+futuristic visor glasses
+cigarette
+cigar
+pipe
+lollipop
+flower
+rose
+candy stick
+apple
+ice cream cone
+cup of coffee
+wine glass
+beer bottle
+water bottle
+smartphone
+camera
+umbrella
+microphone
+book
+newspaper
+fan
+hat in hand
+smoke grenade
+cigarette smoke
+fog effect
+colored smoke
+neon light tube
+led light stick
+laser pointer
+flare
+torch
+lantern
+flashlight
+magic glow effect
+holographic projection

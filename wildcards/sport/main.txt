@@ -1,0 +1,7 @@
+(genre/__sport__/genre__),
+at (genre/__sport__/place__),
+(genre/__sport__/pose__),
+wearing (genre/__sport__/outfit__),
+with (genre/__sport__/mood__),
+including (genre/__sport__/object__),
+(detail: genre/__sport__/detail__).

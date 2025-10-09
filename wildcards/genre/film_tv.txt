@@ -1,0 +1,41 @@
+action
+adventure
+comedy
+drama
+romance
+thriller
+horror
+sci-fi
+fantasy
+mystery
+crime
+detective
+suspense
+psychological
+documentary
+musical
+animation
+anime
+superhero
+slice of life
+coming of age
+sports
+martial arts
+kung fu
+samurai
+wuxia
+noir
+neo-noir
+spy
+political
+legal
+courtroom
+medical
+school life
+college life
+family
+friendship
+road trip
+travel
+heist
+survival

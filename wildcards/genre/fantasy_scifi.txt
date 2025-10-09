@@ -1,0 +1,15 @@
+high fantasy
+urban fantasy
+dark fantasy
+sci-fi
+cyberpunk
+steampunk
+dieselpunk
+solarpunk
+dystopian
+utopian
+space opera
+time travel
+parallel universe
+supernatural
+occult

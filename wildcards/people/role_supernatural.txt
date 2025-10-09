@@ -1,0 +1,7 @@
+alien
+cyborg
+android
+superhero
+supervillain
+rebel
+outlaw

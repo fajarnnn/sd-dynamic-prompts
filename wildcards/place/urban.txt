@@ -1,0 +1,12 @@
+village
+small town
+city street
+alleyway
+marketplace
+shopping mall
+skyscraper rooftop
+bridge
+subway station
+train station
+airport terminal
+airplane cabin

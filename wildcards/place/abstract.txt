@@ -1,0 +1,3 @@
+white void
+black void
+colorful abstract background

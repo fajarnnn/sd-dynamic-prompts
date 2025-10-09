@@ -1,0 +1,7 @@
+(genre/__dark_fantasy__/genre__),
+at (genre/__dark_fantasy__/place__),
+(genre/__dark_fantasy__/pose__),
+wearing (genre/__dark_fantasy__/outfit__),
+with (genre/__dark_fantasy__/mood__),
+including (genre/__dark_fantasy__/object__),
+(detail: genre/__dark_fantasy__/detail__).

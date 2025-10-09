@@ -1,0 +1,14 @@
+thriller
+horror
+mystery
+crime
+detective
+suspense
+psychological
+dystopian
+post-apocalyptic
+war
+epic
+gothic
+dark fantasy
+tragedy
