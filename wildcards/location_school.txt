@@ -1,0 +1,42 @@
+school
+school entrance
+school hallway
+school corridor
+school gate
+school park
+school garden
+school backyard
+school cafeteria
+school canteen
+school library
+school hospital
+school clinic
+teacher office
+teacher lounge
+classroom
+science lab
+computer lab
+language lab
+music room
+art room
+gymnasium
+sports field
+basketball court
+auditorium
+school stage
+student dormitory
+school rooftop
+school basement
+school hallway lockers
+study room
+meeting room
+principal office
+administration office
+school parking lot
+school bus stop
+school playground
+exam room
+laboratory hallway
+school rest area
+school toilet
+school warehouse

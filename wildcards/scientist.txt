@@ -1,0 +1,41 @@
+scientist
+researcher
+biologist
+chemist
+physicist
+geneticist
+astronomer
+astrophysicist
+microbiologist
+molecular biologist
+biochemist
+neuroscientist
+psychologist
+anthropologist
+archaeologist
+ecologist
+zoologist
+botanist
+marine biologist
+geologist
+meteorologist
+data scientist
+AI researcher
+robotics engineer
+laboratory technician
+lab assistant
+science teacher
+professor of science
+medical researcher
+forensic scientist
+pharmacologist
+biomedical engineer
+nuclear scientist
+particle physicist
+quantum researcher
+environmental scientist
+climate researcher
+inventor
+experimental scientist
+theoretical physicist
+science communicator

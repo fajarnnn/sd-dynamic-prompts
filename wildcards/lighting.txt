@@ -1,0 +1,31 @@
+natural light
+studio light
+cinematic lighting
+soft light
+hard light
+warm light
+cool light
+golden hour light
+sunset lighting
+morning light
+backlight
+side light
+front light
+key light
+fill light
+rim light
+low key lighting
+high key lighting
+moody lighting
+dramatic lighting
+ambient light
+diffused light
+neon lighting
+spotlight
+bokeh lighting
+volumetric lighting
+god rays
+window light
+overhead lighting
+underlighting
+night lighting

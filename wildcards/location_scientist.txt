@@ -1,0 +1,41 @@
+science laboratory
+research laboratory
+chemical lab
+biology lab
+physics lab
+genetics lab
+forensic lab
+medical lab
+pharmaceutical lab
+university lab
+underground lab
+field research station
+greenhouse
+observatory
+astronomy center
+planetarium
+research institute
+university research center
+medical research center
+technology research center
+innovation lab
+data center
+robotics workshop
+AI research lab
+clean room
+microscope room
+experiment room
+test facility
+wind tunnel
+nuclear research facility
+particle accelerator
+geological site
+dig site
+archaeological site
+marine research vessel
+oceanographic station
+weather station
+meteorological tower
+satellite control room
+space research station
+science museum
