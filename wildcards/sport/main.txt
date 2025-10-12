@@ -1,7 +1,1 @@
-__sport__/genre__,
-at __sport__/place__,
-__sport__/pose__,
-wearing __sport__/outfit__,
-with __sport__/mood__,
-__sport__/object__,
-__sport__/detail__.
+__sport/genre__,at __sport/place__,__sport/pose__,wearing __sport/outfit__,with __sport/mood__,__sport/object__,__sport/detail__.
