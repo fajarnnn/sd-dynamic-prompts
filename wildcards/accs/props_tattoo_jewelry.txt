@@ -1,0 +1,20 @@
+tattoo,necklace
+tattoo,choker
+tattoo,bracelet
+tattoo,earrings
+tattoo,dangling earrings
+tattoo,pearl necklace
+tattoo,gold chain
+tattoo,silver ring
+tattoo,gemstone ring
+tattoo,anklet
+tattoo,nose ring
+tattoo,belly piercing
+tattoo,crystal pendant
+tattoo,bandana
+tattoo,silver crown
+tattoo,golden crown
+tattoo,crystal crown
+tattoo,gods crown
+tattoo,horns
+tattoo,vampire fangs
