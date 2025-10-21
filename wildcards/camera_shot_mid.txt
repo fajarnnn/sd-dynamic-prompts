@@ -1,0 +1,25 @@
+medium shot, eye-level view
+medium shot, three-quarter view
+medium shot, over-the-shoulder view
+medium shot, from above
+medium shot, from below
+medium shot, side view
+medium shot, tilted angle
+half body shot, front view
+half body shot, side view
+half body shot, three-quarter view
+half body shot, from below
+half body shot, low angle view
+cowboy shot, front view
+cowboy shot, side view
+cowboy shot, three-quarter view
+cowboy shot, low angle view
+cowboy shot, eye-level view
+cowboy shot, tilted angle
+torso shot, front view
+torso shot, over-the-shoulder view
+two-shot, eye-level view
+two-shot, over-the-shoulder view
+group shot, eye-level view
+group shot, from above
+group shot, from below

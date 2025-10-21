@@ -1,0 +1,20 @@
+close-up, front view
+close-up, side view
+close-up, three-quarter view
+close-up, eye-level view
+close-up, high angle view
+close-up, low angle view
+close-up, face from above
+close-up, face from below
+close-up, profile view
+bust shot, front view
+bust shot, side view
+bust shot, eye-level view
+portrait shot, front view
+portrait shot, three-quarter view
+portrait shot, profile view
+extreme close-up, front view
+extreme close-up, eye-level view
+extreme close-up, tilted angle
+macro shot, close perspective
+macro shot, tilted angle

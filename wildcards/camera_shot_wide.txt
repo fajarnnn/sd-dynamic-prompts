@@ -1,0 +1,23 @@
+full shot, eye-level view
+full shot, from above
+full shot, from below
+full shot, low angle view
+full shot, high angle view
+long shot, from above
+long shot, from below
+long shot, bird’s-eye view
+long shot, worm’s-eye view
+wide shot, eye-level view
+wide shot, from above
+wide shot, from below
+wide shot, low angle view
+wide shot, dynamic perspective
+extreme wide shot, aerial shot
+extreme wide shot, top-down view
+establishing shot, aerial shot
+establishing shot, bird’s-eye view
+tracking shot, low angle view
+tracking shot, diagonal angle
+dynamic wide angle, from below
+dynamic wide angle, from above
+aerial shot, top-down view
