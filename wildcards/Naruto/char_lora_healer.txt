@@ -1,0 +1,8 @@
+sakuraharuno, mature female, short hair, bob cut, pink hair, green eyes, forehead mark, bare shoulders, white pants, red hairband, red sleeveless dress <lora:Sakura_Haruno_Boruto_Naruto_Next_Generations_v2:0.9>
+tsunade, old lady, sleeveless grey kimono-style top with deep v-neck and black trim, tightly wrapped blue waist sash, dark navy cropped pants, black open-toe sandals with ankle straps <lora:Tsunade_-__V1.2_-_ILL:0.9>__
+shizune_boruto, Mature Female, black hair, short hair, black eyes, japanese clothes, fishnets, letterboxed, long sleeves, collarbone, kimono, sandals <lora:Shizune-Boruto-ILXL:0.9>
+M1T0_XL, old lady, dark red hair, black eyes, facial mark, forehead mark, lips,hair bun, double bun, hair ornament, hairclip, white kimono <lora:Mito_XL:0.9>
+InoShipuuden, mature female, blonde hair, high ponytail, hair over one eye, midriff, navel, purple skirt, fishnets, crop top, breasts, blue eyes, bare shoulders <lora:Ino_illustrious_v1:0.9>
+InoLongHairShipuuden, mature female, midriff, blonde hair, hair over one eye, fishnets, blue eyes, crop top, bare shoulders, navel, skirt, groin <lora:Ino_illustrious_v1:0.9>
+Karin_XL, long hair, mature female, black-framed eyewear, 1girl, long hair, looking at viewer, shirt, ribbon, navel, jewelry, white shirt, collared shirt <lora:Karin_XL:0.9>
+hinata, mature female, short hair, bob cut, bangs, blue hair, pearl eyes, no pupils, toeless footwear, boots, hood, hoodie, short sleeves hoodie, jacket, shorts, white long sleeves <lora:Hinata_Hyuga_Boruto_Naruto_Next_Generations:0.9>
