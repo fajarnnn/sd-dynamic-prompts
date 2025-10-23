@@ -1,8 +1,8 @@
 sakuraharuno, mature female, short hair, bob cut, pink hair, green eyes, forehead mark, red hairband <lora:Sakura_Haruno_Boruto_Naruto_Next_Generations_v2:0.9>
-tsunade, old lady <lora:Tsunade_-__V1.2_-_ILL:0.9>__
+tsunade, old lady, blonde hair <lora:Tsunade_-__V1.2_-_ILL:0.9>__
 shizune_boruto, Mature Female, black hair, short hair, black eyes <lora:Shizune-Boruto-ILXL:0.9>
 M1T0_XL, old lady, dark red hair, black eyes, facial mark, forehead mark, lips,hair bun, double bun, hair ornament, hairclip <lora:Mito_XL:0.9>
 InoShipuuden, mature female, blonde hair, high ponytail, hair over one eye, midriff, navel, purple skirt, fishnets, crop top, breasts, blue eyes, bare shoulders <lora:Ino_illustrious_v1:0.9>
 InoLongHairShipuuden, mature female, blonde hair, hair over one eye, fishnets, blue eyey <lora:Ino_illustrious_v1:0.9>
-Karin_XL, long hair, mature female, black-framed eyewear <lora:Karin_XL:0.9>
+Karin_XL, long hair, mature female, black-framed eyewear,red hair <lora:Karin_XL:0.9>
 hinata, mature female, short hair, bob cut, bangs, blue hair, pearl eyes, no pupils <lora:Hinata_Hyuga_Boruto_Naruto_Next_Generations:0.9>
