@@ -5,4 +5,8 @@ M1T0_XL, old lady, dark red hair, black eyes, facial mark, forehead mark, lips,h
 InoShipuuden, mature female, blonde hair, high ponytail, hair over one eye, midriff, navel, purple skirt, fishnets, crop top, breasts, blue eyes, bare shoulders <lora:Ino_illustrious_v1:0.9>
 InoLongHairShipuuden, mature female, blonde hair, hair over one eye, fishnets, blue eyey <lora:Ino_illustrious_v1:0.9>
 Karin_XL, long hair, mature female, black-framed eyewear,red hair <lora:Karin_XL:0.9>
-hinata, mature female, short hair, bob cut, bangs, blue hair, pearl eyes, no pupils <lora:Hinata_Hyuga_Boruto_Naruto_Next_Generations:0.9>
+hyuuga hinata, mature female, short hair, bob cut, bangs, blue hair, pearl eyes, no pupils <lora:Hinata_Hyuga_Boruto_Naruto_Next_Generations:0.9>
+hanabihyuuga,  black hair, long hair, low ponytail, pearl eyes, no pupils, big breasts <lora:Hanabi_Hyuuga_Boruto_Naruto_Next_Generations:0.9>
+Inuzuka Hana, brown hair, long hair, ponytail, black eyes, facial mark <lora:Inuzuka_Hana_Naruto_Character_for_Illustrious:0.9>
+shizuka,black hair,high ponytail,large green eyes,bangs <lora:抚子静香shizuka_NAI:1>
+kushinauzumaki, blue eyes, long hair, hairclip <lora:Naruto_UzumakiKushina_iXL_v1.1_byMarjorie:1>
