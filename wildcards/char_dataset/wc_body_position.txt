@@ -1,0 +1,5 @@
+sitting
+standing
+leaning
+kneeling
+bending forward
